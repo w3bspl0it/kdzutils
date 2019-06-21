@@ -2,7 +2,7 @@
 
 LGE KDZ Utilities
 by IOMonster (thecubed on XDA)
-by w3bspl0it (updated decompression to ZSTD on LG G8 firmware)
+by w3bspl0it (updated compression algorithm to ZSTD on LG G8 firmware)
 
 -------------------------------------------
 
