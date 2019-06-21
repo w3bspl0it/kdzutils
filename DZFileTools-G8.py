@@ -1,7 +1,7 @@
 """
   DZ File tools
   by IOMonster (thecubed on XDA)
-
+  by w3bspl0it (changed zlib to zstd to work on LG G8 firmware)
   Please do not distribute without permission from the author of this software.
 """
 
